@@ -9,7 +9,7 @@
 
 To install the script, you need to:
 1. install tampermonkey.
-2. click on the raw link: https://github.com/kaedesuu/eduquizvn_cheat/raw/refs/heads/main/anti_proctor/anti_proctor.user.js
+2. click on the raw link: https://github.com/kumiyuki/eduquizvn_cheat/raw/refs/heads/main/anti_proctor/anti_proctor.user.js
 3. press `Install`.
 4. read the [#userscript for instances](../README.md/#userscript-for-instances) section.
 
