@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         eduquiz_anti_proctor
-// @namespace    https://github.com/kaedesuu/eduquizvn_cheat
+// @namespace    https://github.com/kumiyuki/eduquizvn_cheat
 // @version      2026-10-03
 // @description  allow user to exit fullscreen without trigger proctoring
-// @author       kaedesuu
+// @author       kumiyuki
 // @match        https://lms.eduquiz.vn/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lms.eduquiz.vn
 // @license      GPL-3.0

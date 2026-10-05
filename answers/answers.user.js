@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         eduquiz_answer
-// @namespace    https://github.com/kaedesuu/eduquizvn_cheat
+// @namespace    https://github.com/kumiyuki/eduquizvn_cheat
 // @version      2026-10-01
 // @description  get correct answers for exams and homeworks from the instance's backend.
-// @author       kaedesuu
+// @author       kumiyuki
 // @match        https://lms.eduquiz.vn/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lms.eduquiz.vn
 // @license      GPL-3.0

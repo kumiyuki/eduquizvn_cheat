@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         eduquiz_inf_time
-// @namespace    https://github.com/kaedesuu/eduquizvn_cheat
+// @namespace    https://github.com/kumiyuki/eduquizvn_cheat
 // @version      2026-10-01
 // @description  set timer of the exam to infinite
-// @author       kaedesuu
+// @author       kumiyuki
 // @match        https://lms.eduquiz.vn/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lms.eduquiz.vn
 // @license      GPL-3.0
